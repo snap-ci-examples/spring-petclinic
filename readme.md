@@ -1,4 +1,4 @@
-# Spring PetClinic Sample Application
+# Spring PetClinic Sample Application with Snap CI
 
 [![Build Status](https://snap-ci.com/snap-ci-examples/spring-petclinic/branch/master/build_image)](https://snap-ci.com/snap-ci-examples/spring-petclinic/branch/master)
 
